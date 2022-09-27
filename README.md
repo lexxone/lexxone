@@ -1,5 +1,6 @@
 ### Hi there 👋
 I love to solve business problems with modern technologies. From software architecture design to implementation and production deployment.
+
 ![image](https://user-images.githubusercontent.com/6584486/192607980-623dc7ee-68c5-43d8-a1b8-0a41301b6ccd.png)
 
 <!--
